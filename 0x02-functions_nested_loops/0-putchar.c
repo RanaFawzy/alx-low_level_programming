@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * main - print _putcharr
- * is written by noha
+ * main - print _putchar
+ * is written byNoha
  * Return: 0
  */
 int main(void)
