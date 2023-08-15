@@ -2,9 +2,9 @@
 
 /**
 
- * main - print _putchar
+ * main - print _putcharr
 
- * is written by mbah
+ * is written by noha
 
  * Return: 0
 
@@ -34,5 +34,4 @@ _putchar('r');
 _putchar('\n');
 
 return (0);
-
 }
